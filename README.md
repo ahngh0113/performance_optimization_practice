@@ -5,9 +5,8 @@
 > **목차**
 > ---
 > 1. [진행 순서](#1-진행-순서)
-> 2. [주요 링크](#2-주요-링크)
-> 3. [주요 개념](#3-주요-개념)
-> 4. [CDN과 성능최적화](#4-cdn과-성능최적화)
+> 2. [주요 개념](#3-주요-개념)
+> 3. [CDN과 성능최적화](#4-cdn과-성능최적화)
 
 ## 1. 진행 순서
 <img width="587" alt="스크린샷 2024-11-22 오전 12 24 32" src="https://github.com/user-attachments/assets/68a2b44d-acb6-4087-8149-22c12af9bf7e">
@@ -18,10 +17,6 @@
 5. AWS 자격 증명을 구성합니다.
 6. 빌드된 파일을 S3 버킷에 동기화합니다.
 7. CloudFront 캐시를 무효화합니다.
-
-## 2. 주요 링크
-- S3 버킷 웹사이트 엔드포인트: http://ahngh0113-bucket.s3-website.eu-north-1.amazonaws.com/
-- CloudFrount 배포 도메인 이름: https://d23si7qmel0ujy.cloudfront.net/
 
 ## 3. 주요 개념
 | 항목 |설명 |
